@@ -11,8 +11,8 @@
  * @author ss123 Testing */
 =======
 =======
- * @author ss Testing */
->>>>>>> parent of 93dbd4c (Update Student.java)
+ * @author Testing */
+>>>>>>> parent of 11d6df3 (Update Student.java)
 public class Student {
     String name;
     
