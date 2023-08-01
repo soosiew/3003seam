@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Testing */
+ * @author ss Testing */
 public class Student {
     String name;
     
