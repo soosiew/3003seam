@@ -7,8 +7,12 @@
 /**
  *
 <<<<<<< HEAD
+<<<<<<< HEAD
  * @author ss123 Testing */
 =======
+=======
+ * @author ss Testing */
+>>>>>>> parent of 93dbd4c (Update Student.java)
 public class Student {
     String name;
     
